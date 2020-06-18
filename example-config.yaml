@@ -1,0 +1,3 @@
+param1: test
+param2: true
+logLevel: debug
